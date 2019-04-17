@@ -1,5 +1,5 @@
-.ipynb_checkpoints
-.zip
-.csv
+*.ipynb_checkpoints
+*.zip
+*.csv
 test.ipynb
 DataGen.ipynb
